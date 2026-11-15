@@ -1,0 +1,13 @@
+{
+  "generated": "mcp-universe-seed",
+  "items": [
+    {
+      "id": 1,
+      "state": "open"
+    },
+    {
+      "id": 2,
+      "state": "closed"
+    }
+  ]
+}
